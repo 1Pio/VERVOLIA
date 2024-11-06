@@ -5,8 +5,8 @@ A demonstration Website made by me (Aaron [roPio])
 
 ---
 
-I made this Website completely responsible, so also try it on your Phone!  
 Every aspect of this website is created by myself, including animations, texts, graphics, and product ideas. The only templates or mockups used are linked below under 'Mockups used.' While I drew inspiration from the website of the beverage company Innocent, all images, animations, and content are entirely my original work, with nothing copied directly from elsewhere.
+I also made this Website completely responsible.  
 
 ---
 DISCLAIMER:
