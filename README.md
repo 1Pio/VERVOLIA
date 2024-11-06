@@ -1,5 +1,5 @@
 # VERVOLIA
-A demonstration Website made by Aaron [roPio]
+A demonstration Website made by me (Aaron [roPio])
 
 **LINK**: https://1pio.github.io/VERVOLIA/
 
